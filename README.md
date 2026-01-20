@@ -8,19 +8,19 @@ I design and implement reliable software systems with measurable product impact.
 ## Featured Projects
 
 - **Cifar10_Experimental_Models** — https://github.com/PaulFarid/Cifar10_Experimental_Models  
-  Concise description: Experimental convolutional neural network implementations and training pipelines for CIFAR‑10, with notebooks and reproducible training scripts.  
+  Description: Experimental convolutional neural network implementations and training pipelines for CIFAR‑10, with notebooks and reproducible training scripts.  
   Tech: Python, PyTorch/TensorFlow, Jupyter, Docker
   
 - **Music_Hub_Data** — https://github.com/PaulFarid/Music_Hub_Data  
-  Concise description: Data collection, cleaning, and exploratory analysis for a music metadata dataset; prepared datasets for downstream models and analytics.  
+  Description: Data collection, cleaning, and exploratory analysis for a music metadata dataset; prepared datasets for downstream models and analytics.  
   Tech: Python, pandas, PostgresSQL, MongoDB
   
 - **Decagon-CondoManagementSystem** — https://github.com/PaulFarid/Decagon-CondoManagementSystem  
-  Concise description: Full‑stack application for managing condominium operations including residents, payments, and maintenance tracking.  
+  Description: Full‑stack application for managing condominium operations including residents, payments, and maintenance tracking.  
   Tech: (full‑stack web: frontend, backend, DB) — Angular/HTML/CSS, Node.js/Express, FireBase, Cypress
 
 - **Jobs2Finesse** — https://github.com/PaulFarid/Jobs2Finesse  
-  Concise description: Job‑matching and application platform with candidate and employer interfaces.  
+  Description: Job‑matching and application platform with candidate and employer interfaces.  
   Tech: (web app) — React, Node.js, REST APIs, PostgreSQL
 ---
 
