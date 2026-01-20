@@ -16,7 +16,7 @@ I design and implement reliable software systems with measurable product impact.
 
 - **Music_Hub_Data** — https://github.com/PaulFarid/Music_Hub_Data  
   Concise description: Data collection, cleaning, and exploratory analysis for a music metadata dataset; prepared datasets for downstream models and analytics.  
-  Tech: Python, pandas, SQL, Jupyter  
+  Tech: Python, pandas, PostgresSQL, MongoDB
   Highlights:
   - Structured pipelines for ingestion and transformation of music metadata.
   - Cleaned and documented datasets ready for analytics and model training.
